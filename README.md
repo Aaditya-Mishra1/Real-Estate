@@ -183,5 +183,3 @@ engineering, hyper-parameter tuning, over/under-fit analysis, evaluation, and re
 every artifact in `model/` plus `test_data.csv`.
 
 ---
-
-*Built for M.Tech (DSE) ML Assignment 2 — 3-class price-tier classification, 5 tuned models, 21 engineered features.*
